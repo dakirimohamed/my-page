@@ -149,11 +149,11 @@ button:hover {
 }
 .Definition h1 {
   color: #333333;
-  margin-bottom: 20px;
+  margin-bottom: 5rem;
 }
 .Definition p {
-  padding-left: 3%;
-  padding-right: 30%;
+  padding-left: 3rem;
+  padding-right: 4rem;
 }
 section {
   padding: 200px;       /* مسافة داخلية حول المحتوى */
@@ -173,6 +173,7 @@ footer.copyright {
   font-size: 14px;
 }
 @media (max-width: 768px)
+
 
 
 
