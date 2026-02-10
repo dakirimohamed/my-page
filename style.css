@@ -172,6 +172,8 @@ footer.copyright {
   padding: 15px 0;          /* مسافة داخلية */    
   font-size: 14px;
 }
+@media (max-width: 768px)
+
 
 
 
